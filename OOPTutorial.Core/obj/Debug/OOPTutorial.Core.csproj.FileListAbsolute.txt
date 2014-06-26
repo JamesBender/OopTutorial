@@ -1,0 +1,5 @@
+C:\VsProjects\OOPTutorial\OOPTutorial.Core\obj\Debug\OOPTutorial.Core.csprojResolveAssemblyReference.cache
+C:\VsProjects\OOPTutorial\OOPTutorial.Core\bin\Debug\OOPTutorial.Core.dll
+C:\VsProjects\OOPTutorial\OOPTutorial.Core\bin\Debug\OOPTutorial.Core.pdb
+C:\VsProjects\OOPTutorial\OOPTutorial.Core\obj\Debug\OOPTutorial.Core.dll
+C:\VsProjects\OOPTutorial\OOPTutorial.Core\obj\Debug\OOPTutorial.Core.pdb
