@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using OOPTutorial.Core.ExampleFive;
 using OOPTutorial.Core.ExampleFour;
 using OOPTutorial.Core.ExampleOne;
 using OOPTutorial.Core.ExampleThree;
@@ -23,10 +24,15 @@ namespace OOPTutorial
             var exampleFour = new ExampleFour();
             var exampleFourResult = exampleFour.Go();
 
-            //Console.WriteLine(exampleOneResult);
+            var exampleFive = new ExampleFive();
+            var exampleFiveResult = exampleFive.Go();
+
+            Console.WriteLine(exampleOneResult);
             //Console.WriteLine(exampleTwoResult);
             //Console.WriteLine(exampleThreeResult);
-            Console.WriteLine(exampleFourResult);
+            //Console.WriteLine(exampleFourResult);
+            //Console.WriteLine(exampleFiveResult);
+
             Console.ReadKey();
         }
     }

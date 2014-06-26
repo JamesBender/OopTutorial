@@ -39,6 +39,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExampleFive\Animal.cs" />
+    <Compile Include="ExampleFive\Bird.cs" />
+    <Compile Include="ExampleFive\Dog.cs" />
+    <Compile Include="ExampleFive\ExampleFive.cs" />
+    <Compile Include="ExampleFive\Fish.cs" />
     <Compile Include="ExampleFour\Animal.cs" />
     <Compile Include="ExampleFour\Bird.cs" />
     <Compile Include="ExampleFour\Dog.cs" />

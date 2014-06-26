@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOPTutorial.Core.ExampleFour
+namespace OOPTutorial.Core.ExampleFive
 {
-    public class ExampleFour
+    public class ExampleFive
     {
         public string Go()
         {
-            Dog dog = new Dog();
-            Bird bird = new Bird();
-            Fish fish = new Fish();
+            Animal dog = new Dog();
+            Animal bird = new Bird();
+            Animal fish = new Fish();
 
             var dogWalking = dog.Walk();
             var birdWalking = bird.Walk();
